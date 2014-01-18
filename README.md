@@ -9,7 +9,6 @@ So, what could an aspiring iOS programmer learn from this project?
 - Proper use of a _Singleton_ (see: AudioPlayer)
 - Extending existing classes with new functionality through _Categories_.
 - Notifications / NotificationCenter
-- Using the _Strategy_ pattern to choose the right algorithm depending on the situation (see: *Parser classes)
 - Programming readable Objective-C (style).
 - Archiving / unarchiving data using NSCoder.
 - Integrate Facebook into an app.
