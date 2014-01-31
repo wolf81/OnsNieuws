@@ -3,7 +3,7 @@
 //  Politiek
 //
 //  Created by Wolfgang Schreurs on 11/6/11.
-//  Copyright 2011 Sound of Data. All rights reserved.
+//  Copyright 2012 Wolfgang Schreurs. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
